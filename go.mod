@@ -1,3 +1,3 @@
-module github.com/LEILEI0628/goKit
+module github.com/LEILEI0628/GoKit
 
 go 1.24.0
